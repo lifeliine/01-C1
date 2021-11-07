@@ -14,4 +14,10 @@ setTimeout( () => {
     console.log("Primer timeout");
 }, 3000);
 
+setTimeout( () => {
+    console.log("Primer timeout");
+}, 2000);
+
+
+
 
